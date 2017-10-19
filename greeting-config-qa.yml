@@ -7,5 +7,6 @@ security:
 management:
   security:
     enabled: true 
-
+    username: user
+    password: user
 quoteServiceURL: http://quote-service-qa.cfapps.io/quote
