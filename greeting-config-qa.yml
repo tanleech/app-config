@@ -1,12 +1,12 @@
 security:
   basic:
-    enabled: true
+    enabled: false
     username: user
     password: user
 
 management:
   security:
-    enabled: true
+    enabled: false
     username: user
     password: user
     
