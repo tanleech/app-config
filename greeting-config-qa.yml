@@ -1,1 +1,9 @@
- quoteServiceURL: http://quote-service-qa.cfapps.io/quote
+security:
+  basic:
+    enabled: true
+
+management:
+  security:
+    enabled: true 
+
+quoteServiceURL: http://quote-service-qa.cfapps.io/quote
